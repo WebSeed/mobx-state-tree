@@ -11,7 +11,7 @@ MST is based heavily on MobX. A basic understanding of the MobX library will hel
 You can write the code for this tutorial in the browser, using the codesandbox playground, or in your preferred code editor (e.g. VSCode).
 
 ### Writing code in the browser
-For each example you'll fine a codesandbox playground link. You can start from the playgrond of each point and manually progress to the next tutorial step by using it! If you're stuck, feel free to have a sneak peak from the next playground link! :)
+For each example you'll find a codesandbox playground link. You can start from the playgrond of each point and manually progress to the next tutorial step by using it! If you're stuck, feel free to have a sneak peak from the next playground link! :)
 
 ### Writing code in the editor
 Setting up the whole environment for a React project involve transpilers, bundlers, linters, etc... and setting them up may become very tedious and not fun. Thanks to `create-react-app` setting up all those tools became easy as typing a couple of lines in your terminal.
